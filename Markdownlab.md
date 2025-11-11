@@ -9,4 +9,7 @@ You _can_ __merge__ it
 ## Imágenes
 ![Superman](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Superman_shield.svg/1200px-Superman_shield.svg.png)
 
+## Links
+Here's [a link to something else][another place].
 
+[another place]: www.github.com
